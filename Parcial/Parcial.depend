@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1678413508 source:c:\users\dacha\onedrive\escritorio\prograuno2k23\prograuno2k23\parcial\src\encabezadoparcial.cpp
+	"encabezadoparcial.h"
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+
+1678413875 c:\users\dacha\onedrive\escritorio\prograuno2k23\prograuno2k23\parcial\include\encabezadoparcial.h
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+
+1678413457 source:c:\users\dacha\onedrive\escritorio\prograuno2k23\prograuno2k23\parcial\main.cpp
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	"encabezadoparcial.h"
+
